@@ -1,0 +1,6 @@
+c:\users\ankita\documents\visual studio 2013\Projects\EvenOddConsoleApplication\EvenOddConsoleApplication\bin\Debug\EvenOddConsoleApplication.exe.config
+c:\users\ankita\documents\visual studio 2013\Projects\EvenOddConsoleApplication\EvenOddConsoleApplication\obj\Debug\EvenOddConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\ankita\documents\visual studio 2013\Projects\EvenOddConsoleApplication\EvenOddConsoleApplication\bin\Debug\EvenOddConsoleApplication.exe
+c:\users\ankita\documents\visual studio 2013\Projects\EvenOddConsoleApplication\EvenOddConsoleApplication\bin\Debug\EvenOddConsoleApplication.pdb
+c:\users\ankita\documents\visual studio 2013\Projects\EvenOddConsoleApplication\EvenOddConsoleApplication\obj\Debug\EvenOddConsoleApplication.exe
+c:\users\ankita\documents\visual studio 2013\Projects\EvenOddConsoleApplication\EvenOddConsoleApplication\obj\Debug\EvenOddConsoleApplication.pdb
